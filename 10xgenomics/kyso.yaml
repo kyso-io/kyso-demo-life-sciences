@@ -1,0 +1,7 @@
+type: website
+organization: kyso-examples
+team: life-sciences
+main: index.html
+title: "Adult Mouse Kidney Chromium Nuclei Analysis"
+description: "Visualising nuclei isolated from adult mouse kidney using the Chromium Nuclei Isolation kit, plotting out K-means gene expressions."
+tags: ["10xgenomics", "mice", "k-means"]

@@ -1,0 +1,6 @@
+type: meta
+reports:
+  - rna-sequences
+  - genomics
+  - small-molecules
+  - 10xgenomics
