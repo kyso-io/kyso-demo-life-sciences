@@ -1,0 +1,19 @@
+name: Publish to Kyso
+on:
+  pull_request_target:
+    types:
+      - closed
+
+jobs:
+  Publish-To-Kyso:
+    if_merged:
+      if: github.event.pull_request.merged == true
+      runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 14
+      - run: npm install -g kyso
+      - run: kyso login --kysoInstallUrl https://kyso.io --provider kyso --username kyle@kyso.io --token a738c892-56aa-4200-bdc4-3ac4cf4e301d
+      - run: kyso push
