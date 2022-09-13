@@ -15,5 +15,5 @@ jobs:
         with:
           node-version: 14
       - run: npm install -g kyso
-      - run: kyso login --kysoInstallUrl https://kyso.io --provider kyso --username kyle@kyso.io --token a738c892-56aa-4200-bdc4-3ac4cf4e301d
+      - run: kyso login --kysoInstallUrl https://kyso.io --provider kyso --username kyle@kyso.io --token ca2c0313-18cd-4d58-80fd-e15f27c6353c
       - run: kyso push
