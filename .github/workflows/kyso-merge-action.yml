@@ -6,7 +6,6 @@ on:
 
 jobs:
   Publish-To-Kyso:
-    if_merged:
       runs-on: ubuntu-latest
       if: github.event.pull_request.merged == true
     steps:
