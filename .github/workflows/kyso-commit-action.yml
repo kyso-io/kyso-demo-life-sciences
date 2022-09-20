@@ -1,5 +1,8 @@
 name: Push To Kyso.io
-on: [push]
+on: 
+  push:
+    branches:
+      - master
 jobs:
   Push-To-Kyso:
     runs-on: ubuntu-latest
