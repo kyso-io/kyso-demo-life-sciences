@@ -5,4 +5,4 @@ team: github-demo
 title: "Graphing genomic mutation ratios"
 description: "Using plotly to plot out synonymous mutations (Ks Plot) and fractionation biases."
 preview: "preview.png"
-tags: [plotly, genomics, rna]
+tags: [plotly, genomics, rna-seq]
