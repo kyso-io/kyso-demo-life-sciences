@@ -1,5 +1,5 @@
 main: main.ipynb
-author: sto@kyso.io
+author: eoin@kyso.io
 organization: kyso-examples
 team: github-demo
 title: "Graphing genomic mutation ratios"
