@@ -1,8 +1,4 @@
 {
-    "links": {
-      "self_api": "",
-      "self_ui": ""
-    },
     "type": "markdown",
     "main": "index.html",
     "title": "And we can embed BI dashboards & data apps..",
