@@ -1,5 +1,6 @@
 type: meta
 reports:
+  - data-apps
   - html-outputs
   - jupyter-notebooks
   - more-html-outputs
