@@ -1,6 +1,8 @@
 type: meta
 reports:
-  - rna-sequences
-  - genomics
-  - small-molecules
-  - 10xgenomics
+  - data-apps
+  - html-outputs
+  - jupyter-notebooks
+  - more-html-outputs
+  - pdf-reports
+  - powerpoint-presentations

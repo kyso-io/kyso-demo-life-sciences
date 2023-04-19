@@ -1,8 +1,7 @@
-main: main.ipynb
+main: agenda.pdf
 author: helena@kyso.io
-type: jupyter
-organization: kyso-examples
-team: github-demo
+organization: kyso-demo
+team: data-analyses
 title: "Visualizing Small Molecules Datasets with mols2grids"
 description: ""
 tags: ["small molecules", targets]
