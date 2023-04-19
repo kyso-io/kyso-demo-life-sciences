@@ -1,6 +1,6 @@
 organization: kyso-demo
 team: data-analyses
 main: index.html
-title: "Adult Mouse Kidney Chromium Nuclei Analysis"
+title: "10xgenomics HTML Report: Chromium Nuclei Analysis"
 description: "Visualising nuclei isolated from adult mouse kidney using the Chromium Nuclei Isolation kit, plotting out K-means gene expressions."
-tags: ["10xgenomics", "mice", "k-means"]
+tags: ["10xgenomics", "k-means"]

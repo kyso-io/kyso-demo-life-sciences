@@ -1,13 +1,22 @@
-# 10th RDKit UGM
+# Analyzing debit card overdrafts
 
-14-15 October 2021
+A local bank sought to investigate whether low-income consumers overdrafted more frequently than middle- or upper-income consumers. In this analysis, I use _(a,b,0)_ families and generalized linear models to investigate this hypothesis.
 
-Online event
+- "analyzing*overdrafts.R" explores using *(a,b,0)\_ families to model probability distributions as well as negative binomial GLM regressions to test for significant differences across income levels.
+- "overdraft_GLMs.R" compares Poisson, quasi-Poisson, negative binomial, zero-adjusted, and zero-inflated models (ZAP, ZANB, ZIP, ZINB). I concluded that the negative binomial model was the best model for this particular data set.
+- "overdraft_GLMs.pdf" describes the results of "overdraft_GLMs.R"
 
-## Calls for talks and posters:
+# Techniques this code uses
 
-The application phase is now closed.
+- SQL to create tables (using R package _sqldf_)
+- _ggplot2_ to visualize overdrafts
+- _xtable_ to process tables for LaTeX output
+- Bootstrapping
+- Chi-square analysis
+- Weighted least squares regression
+- Negative binomial regression
+- Zero-adjusted and zero-inflated regression models
+- Akaike information criterion for model selection
+- Likelihood ratio tests to compare nested regression models
 
-## Draft agenda
-
-The current version of the agenda, including the list of lightning talks, is available [here](https://github.com/rdkit/UGM_2021/blob/master/info/agenda.pdf).
+_Note_: Zero-adjusted poisson (ZAP) or zero-adjusted negative binomial (ZANB) models are also referred to as hurdle models.

@@ -1,0 +1,17 @@
+{
+    "links": {
+      "self_api": "",
+      "self_ui": ""
+    },
+    "type": "markdown",
+    "main": "index.html",
+    "title": "And we can embed BI dashboards & data apps..",
+    "description": "",
+    "organization": "kyso-demo",
+    "channel": "general",
+    "tags": [],
+    "authors": [
+      "kyle@kyso.io"
+    ],
+    "url": "https://dataflix.looker.com/embed/dashboards/16"
+  }
