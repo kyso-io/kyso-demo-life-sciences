@@ -1,0 +1,7 @@
+organization: kyso-demo
+team: data-analysis
+main: main.md
+title: "Markdown Report: Engineering Process Diagrams"
+description: "Mermaid is a JavaScript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. The main purpose of Mermaid is to help documentation catch up with development."
+preview: images/preview.png
+tags: ["mermaid", "flowchart", "gitgraph"]
