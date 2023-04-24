@@ -1,6 +1,6 @@
 main: overdraft-GLMs.pdf
 author: helena@kyso.io
-organization: kyso-demo
+organization: kyso-demos
 team: data-analyses
 title: "PDF Report: Hurdle & Zero Inflated Models, Overdraft Analytics"
 description: "The purpose of this analysis is to understand how overdraft behaviour varies across income levels."
