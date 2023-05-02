@@ -1,0 +1,7 @@
+organization: kyso-demo
+team: data analyses
+main: hoopDown.html
+title: "NBA Player Clustering"
+description: "Clustering NBA Player Types: A Tutorial on K-Means, Model Based Clustering, and Graphical Networks."
+preview: images/preview.png
+tags: ["nba", "k-means", "gaussian-mixture", "networks"]

@@ -7,3 +7,5 @@ reports:
   - pdf-reports
   - powerpoint-presentations
   - markdown-writeups
+  - nba-player-clustering
+  - baseball-data-analysis
