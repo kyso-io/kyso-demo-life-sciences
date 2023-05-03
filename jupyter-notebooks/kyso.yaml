@@ -1,8 +1,15 @@
+type: other
 main: main.ipynb
-author: sto@kyso.io
+title: 'Jupyter Notebook: Graphing Mutation Ratios'
+description: >-
+  Using plotly to plot out synonymous mutations (Ks Plot) and fractionation
+  biases.
 organization: kyso-demo
-team: data-analyses
-title: "Jupyter Notebook: Graphing Mutation Ratios"
-description: "Using plotly to plot out synonymous mutations (Ks Plot) and fractionation biases."
-preview: "preview.png"
-tags: [plotly, genomics, rna-seq]
+channel: data-analyses
+tags:
+  - plotly
+  - genomics
+  - rna-seq
+preview: preview.png
+authors:
+  - kyle@kyso.io
