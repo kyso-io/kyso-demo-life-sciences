@@ -1,13 +1,21 @@
 {
-    "type": "markdown",
-    "main": "index.html",
-    "title": "Salesforce Pipeline Looker Dashboard",
-    "description": "",
-    "organization": "kyso-demo",
-    "channel": "general",
-    "tags": [],
-    "authors": [
-      "kyle@kyso.io"
-    ],
-    "url": "https://dataflix.looker.com/embed/dashboards/16"
-  }
+  "links": {
+    "self_api": "",
+    "self_ui": ""
+  },
+  "type": "markdown",
+  "main": "index.html",
+  "title": "Covid-19 Epidemiological Summary, Belgium",
+  "description": "",
+  "organization": "kyso-demo",
+  "channel": "life-sciences",
+  "tags": [
+    "covid",
+    "data science",
+    "looker"
+  ],
+  "authors": [
+    "kyle@kyso.io"
+  ],
+  "url": "https://lookerstudio.google.com/embed/u/0/reporting/c14a5cfc-cab7-4812-848c-0369173148ab/"
+}

@@ -1,7 +1,0 @@
-organization: kyso-demo
-team: data analyses
-type: website
-main: export/Baseball.html
-title: "Baseball Data Analysis"
-description: "This project report contains in-depth statistical analyses of player, manager, and team performance."
-tags: ["baseball", "player-analysis"]
