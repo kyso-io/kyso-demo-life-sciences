@@ -1,4 +1,4 @@
-## Mermaid diagrams for software & engineering teams!
+## Mermaid diagrams for software & engineering teams
 
 In this article we will showcase some example diagrams for different use cases on how technical teams can document their processes & workflows using Markdowna and the [Mermaid plugin](https://github.com/mermaid-js/mermaid).
 
