@@ -7,8 +7,8 @@
   "main": "index.html",
   "title": "Covid-19 Epidemiological Summary, Belgium",
   "description": "",
-  "organization": "kyle-oshea",
-  "channel": "general",
+  "organization": "kyso-demos",
+  "channel": "insitro-test",
   "tags": [
     "covid",
     "data science",

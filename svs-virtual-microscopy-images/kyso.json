@@ -6,8 +6,8 @@
   "main": "Slide-0027816_Y345170_1002394.svs",
   "title": "SVS Virtual Microscopy Images",
   "description": "Rendering whole scan images that contain Region of Interest (ROI) scanned from a microscope slide.",
-  "organization": "kyle-oshea",
-  "channel": "general",
+  "organization": "kyso-demos",
+  "channel": "insitro-test",
   "preview": "images/preview.png",
   "tags": [
     "svs"
