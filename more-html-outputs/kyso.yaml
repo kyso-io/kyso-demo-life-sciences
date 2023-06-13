@@ -1,7 +1,7 @@
 main: multiqc-rna-seq.html
 author: sto@kyso.io
-organization: kyso-demos
-channel: insitro-test
+organization: kyle-oshea
+channel: general
 title: "HTML Outputs: MultiQC Sequencing Data"
 description: "MultiQC reports allow us to aggregate results from bioinformatics analyses across many samples into a single report"
 tags: [targets, rna]
